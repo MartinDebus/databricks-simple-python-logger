@@ -10,4 +10,4 @@ To get the full context, please read the full blog posts:
 
 # Connect
 
-[![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/)
+[![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/martin-debus/))
