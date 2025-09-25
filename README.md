@@ -1,4 +1,4 @@
-# databricks-simple-python-logger
+# A simple Databricks Python Logger
 
 This simple python logger for Databricks is published as part of the series about Logging in Databricks on my Blog www.thelakehousepath.com.
 
@@ -7,3 +7,7 @@ To get the full context, please read the full blog posts:
 - [Part 1: Deliver Cluster Logs to a Volume](https://www.thelakehousepath.com/p/simple-python-logger-framework-for-databricks-part1?r=58nu1d)
 - Part 2: Create a Python Databricks Logger
 - Part 3: Analyze Cluster Log Files in Databricks SQL (will be published 2025/11/06)
+
+# Connect
+
+[![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/)
